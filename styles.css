@@ -215,3 +215,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.footertext2 {
+    text-align: center;
+}
